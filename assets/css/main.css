@@ -1,0 +1,70 @@
+/*****************************************************************************/
+/*
+/* Default Page CSS
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+*{
+  font: @font-family-base;
+  font-size: @font-size-base;
+  line-height: @line-height-base;
+}
+
+body, footer {
+  background-color: #323232;
+}
+
+/* Header */
+#header{
+  background-color: #222222;
+  margin: 0;
+}
+
+.navbar-nav li a, .navbar-brand{
+    text-shadow: none;
+}
+
+/* Contact */
+.img-contact{
+  height: 15px;
+}
+
+.modal-body{
+  margin: 10px;
+}
+
+/* Banner */
+#banner-row{
+  background-image: url(/assets/img/warning_banner.png);
+  background-size: Auto 212px;
+}
+
+#banner{
+  padding-top: 50px;
+  padding-bottom: 20px;
+  margin: 0px;
+  border: none;
+}
+
+#banner-img{
+  margin-bottom: 30px;
+  margin-top: 30px;
+  height: 150px;
+}
+
+#banner-content{
+  font-size: 30px;
+}
+
+#banner-content h1 small{
+  color: #A46313;
+  text-shadow: 1px 1px #744313;
+}
+
+/* Posts */
+.post{
+  background-color: #FFF;
+  box-shadow: 10px 10px 5px #111;
+  margin-bottom: 30px;
+}
