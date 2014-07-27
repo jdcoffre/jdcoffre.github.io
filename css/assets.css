@@ -1,0 +1,26 @@
+body {
+  font-size:13px;
+}
+
+.page-header{
+    margin-bottom:0;
+}
+
+h3 {
+  font-size:20px;
+  color: #484E6D;
+}
+
+h4 {
+  font-size:16px;
+  color: #666E99;
+}
+
+.pull-right {
+   font-size:12px;
+ }
+
+h5 {
+  font-size:15px;
+  margin-bottom:0;
+}
