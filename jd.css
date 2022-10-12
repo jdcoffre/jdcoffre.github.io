@@ -20,7 +20,11 @@ h1{
 }
 h2{
   color: #B86018;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
+}
+h3{
+  font-size: 1rem;
+  font-style: oblique;
 }
 a:link .jd-inverted {
   color: white;
