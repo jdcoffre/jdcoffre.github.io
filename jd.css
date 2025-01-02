@@ -1,10 +1,13 @@
-.jd-inverted{
+#contact-info{
   background-color: #75967A;
+  color: white;
+}
+.jd-inverted{
   color: white;
 }
 .jd-emphase{
   background-color: #CFD9DB;
-  color: #B86018;
+  color: #d66f1a;
   font-size: .9rem;
 }
 .jd-date{
@@ -12,15 +15,11 @@
   font-size: small;
 }
 h1{
-  color: #435941;
-  font-size: 1.7rem;
-}
-h1{
-  color: #435941;
+  color: #d66f1a;
   font-size: 1.7rem;
 }
 h2{
-  color: #B86018;
+  color: #d66f1a;
   font-size: 1.4rem;
 }
 h3{
